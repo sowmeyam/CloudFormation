@@ -1,0 +1,7 @@
+Problem Statement:
+You work for XYZ Corporation. Your team is asked to deploy similar architecture
+multiple times for testing, development, and production purposes. Implement
+CloudFormation for the tasks assigned to you below.
+Tasks To Be Performed:
+1. Create a FIFO SQS queue and test by sending messages.
+2. Register your mail in SES and send a test mail to yourself
